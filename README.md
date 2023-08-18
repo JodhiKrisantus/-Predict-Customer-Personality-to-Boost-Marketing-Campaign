@@ -50,11 +50,9 @@ Identify potential customers to make purchases on the website, so as to reduce c
 
 Customer yang tingkat pendidikannya SMA memiliki rata rata accept campaign yang paling rendah, sedangkan customer dengan education S3 memiliki rata rata accept campaign terbesar. Faktor penyebabnya mungkin karena customer yang tingkat pendidikannya hanya mencapai SMA mempunyai kesulitan finansial dalam pekerjaannya, jika dibandingkan dengan customer dengan education S3 yang memiliki pekerjaan yang lebih baik sehingga income lebih besar. 
 
-## K-Means Clustering Result
-<img src="https://github.com/JodhiKrisantus/Predict-Customer-Personality-Marketing-Campaign-Clustering/blob/master/Resource%20image/Clusters%20result.png">
-
 ## Cluster Overview
 <img src="https://github.com/JodhiKrisantus/Predict-Customer-Personality-Marketing-Campaign-Clustering/blob/master/Resource%20image/Cluster%20summary.png">
+<img src="https://github.com/JodhiKrisantus/Predict-Customer-Personality-Marketing-Campaign-Clustering/blob/master/Resource%20image/Cluster%20Result%20Visualization.png">
 
 There are 3 clusters:
 
