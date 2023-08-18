@@ -36,3 +36,7 @@
 
 ## Objective
 Identify potential customers to make purchases on the website, so as to reduce company expenses and increase revenue
+
+# Quick Result 
+
+
